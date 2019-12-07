@@ -1,3 +1,8 @@
-# Este es un mini curso de estructura de datos que se ve con python
+## Este es un mini curso de estructura de datos que se ve con python
 
-## Mètodo Burbuja 
+### Mètodos de ordenamiento
+
+-- Mètodo Burbuja 
+--- Es mètodo es el màs sencillo de todos, funciona comparando un elemento del arreglo con el siguiente
+--- hasta pasar por todos los elementos del arreglo e intercambiando las posiciones de forma ordenada
+
